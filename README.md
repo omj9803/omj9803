@@ -1,6 +1,7 @@
 # OH MYEONG JU 😎
 
-![github stats](https://github-readme-stats.vercel.app/api?username=omj9803&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omj9803&layout=compact&theme=tokyonight)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=omj9803&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omj9803&layout=compact&theme=tokyonight) -->
+Blog : https://myeongju0316.tistory.com/
 
 ## 💪 TECH STACKS 
 ### ✨ Used as the main
